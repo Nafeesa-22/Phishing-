@@ -2,7 +2,7 @@
 
 The Smishing purpose is to be able to track SMS Phishing message with the Phishing Frenzy project. When a victim click on the link in the SMS, it will be tracked in Phishing Frenzy. Smishing will send SMS to the list of target. 
 
-![smishing](https://user-images.githubusercontent.com/838845/80989277-b8385600-8e02-11ea-84b3-a156c5fd804a.gif)
+
 
 
 
@@ -40,7 +40,6 @@ Once the smishing.conf is filled, you will be introduced with the following menu
 
 `python3 smishing.py`
 
-![Screenshot from 2020-05-04 12-08-30](https://user-images.githubusercontent.com/838845/80987415-01d37180-8e00-11ea-8625-0469249972c6.png)
 
 
 
